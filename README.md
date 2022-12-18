@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+
+
+<div id="header" align="center">
+  <img src="https://github.com/dev-hack95/dev-hack95/blob/main/Images/giphy.gif" width="100"/>
+</div>
+
+
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
