@@ -14,6 +14,8 @@
   </a>
 </div>
 
+### 👨‍💻: About Me :
+
 I am a Data Scientist.
 
 <!--
