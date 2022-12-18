@@ -20,6 +20,9 @@ I am a Data Scientist.
 - 🥅 2023 Goals: To become a Full Stack Data Scientist
 - :zap: In my free time, I read tech articles from medium.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
+
+### :hammer_and_wrench: Tech Stack:
+
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
