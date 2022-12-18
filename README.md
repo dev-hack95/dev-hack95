@@ -19,7 +19,7 @@ I am a Data Scientist.
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
 - 🥅 2023 Goals: To become a Full Stack Data Scientist
 - :zap: In my free time, I read tech articles from medium.
-- :mailbox:How to reach me: [![Linkedin Badge]: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saiprasad-toshatwad-a75449206/)
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
