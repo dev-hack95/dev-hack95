@@ -30,6 +30,10 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 #### Devops/Mlops
 - Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, github/workflows
 
+#### Python Packges , Frameworks and Databases
+- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup
+- Mysql, Postgresq
+
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
