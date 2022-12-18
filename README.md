@@ -27,6 +27,9 @@ I am a Data Scientist.
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning
 algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 
+#### Devops/Mlops
+- Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, github/workflows
+
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
