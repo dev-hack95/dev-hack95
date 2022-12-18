@@ -17,8 +17,7 @@
 I am a Data Scientist.
 
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
-- 
-
+- 🥅 2023 Goals: To become a Full Stack Data Scientist
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
