@@ -1,8 +1,7 @@
-### Hi there 👋
 
-
-
-
+<p>
+  <h1 align="center"><b>Hello there, I'm Saiprasad Toshatwad </b></h1>
+</p>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611021c6f00b63ed67cb3038f7ef33aff0ad0464ca1&rid=giphy.gif&ct=s" width="200"/>
@@ -15,10 +14,10 @@
 </div>
 
 ### 👨‍💻: About Me :
+I am a Data Scientist.
 
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
-
-I am a Data Scientist.
+- 
 
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
