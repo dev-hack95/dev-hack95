@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
