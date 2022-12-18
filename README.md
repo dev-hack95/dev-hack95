@@ -31,7 +31,7 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 - Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, github/workflows
 
 #### Python Packges , Frameworks and Databases
-- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup
+- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi
 - Mysql, Postgresql
 
 #### BI Tools
