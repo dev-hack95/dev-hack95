@@ -29,7 +29,7 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 
 #### Devops/Mlops
 - Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, github/workflows
-- GO(Beginner)
+- Go(Beginner)
 
 #### Python Packges , Frameworks and Databases
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi
