@@ -14,10 +14,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif" width="600" height="300"/>
-</div>
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
