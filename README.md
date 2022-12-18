@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F329255422763653045%2F&psig=AOvVaw01Fn_CxE2Ejy7s-v3tKQoc&ust=1671453910030000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCmh5aZg_wCFQAAAAAdAAAAABAE" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/52/b7/36/52b736f2c6e739118e5b9a32a21434ea.gif" width="600" height="300"/>
 </div>
 
 
