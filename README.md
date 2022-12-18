@@ -17,7 +17,7 @@
 I am a Data Scientist.
 
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
-- 🥅 2023 Goals: To become a Full Stack Data Scientist
+- 🥅 2023 Goals: To become a Full Stack Data Scientist and Devops Pro
 - :zap: In my free time, I read tech articles from medium.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
