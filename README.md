@@ -14,7 +14,7 @@
 </div>
 
 ### 👨‍💻: About Me :
-I am a Data Scientist.
+#### I am a Junior Data Scientist and Devops enginner.
 
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
 - 🥅 2023 Goals: To become a Full Stack Data Scientist and Devops Pro
