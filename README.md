@@ -16,6 +16,8 @@
 
 ### 👨‍💻: About Me :
 
+- :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
+
 I am a Data Scientist.
 
 <!--
