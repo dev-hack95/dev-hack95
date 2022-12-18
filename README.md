@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/dev-hack95/dev-hack95/blob/main/Images/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76111af9b20a80bc40c7b4afe8177bebce1f5b10b977&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 
