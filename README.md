@@ -19,7 +19,7 @@
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
 - 🥅 2023 Goals: To become a Full Stack Data Scientist and Devops Pro
 - :zap: In my free time, I read tech articles on medium.
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/saiprasad-toshatwad-a75449206/)
+- 📬 How to reach me: [Let's get in touch!]
 
 ### :hammer_and_wrench: Tech Stack:
 
@@ -36,7 +36,7 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 - Mysql, Postgresql
 
 #### BI Tools
-- PowerBI, Tableau
+- PowerBI,  Tableau
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-hack95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -48,7 +48,7 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 <!--
 **dev-hack95/dev-hack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-
