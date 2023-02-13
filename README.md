@@ -28,7 +28,7 @@
 algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 
 #### Devops/Mlops
-- ![](https://img.icons8.com/color/2x/linux.png), DVC, Mlflow, CI/CD, ![](https://img.icons8.com/color/2x/jenkins.png), ![](https://img.icons8.com/color/2x/docker.png), ![](https://img.icons8.com/color/2x/kubernetes.png), ![](https://img.icons8.com/color/2x/git.png), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+- ![](https://img.icons8.com/color/2x/linux.png), ![](http://www.w3.org/2000/svg), Mlflow, CI/CD, ![](https://img.icons8.com/color/2x/jenkins.png), ![](https://img.icons8.com/color/2x/docker.png), ![](https://img.icons8.com/color/2x/kubernetes.png), ![](https://img.icons8.com/color/2x/git.png), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
 - Go(Beginner)
 
 #### Python Packges , Frameworks and Databases
