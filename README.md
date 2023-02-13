@@ -28,7 +28,7 @@
 algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 
 #### Devops/Mlops
-- Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, github/workflows
+- Linux, DVC, MLFlow, CI/CD, Jenkins, Docker, Kubernetes, GitVCS, GitHub Actions
 - Go(Beginner)
 
 #### Python Packges , Frameworks and Databases
