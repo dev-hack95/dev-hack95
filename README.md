@@ -28,7 +28,7 @@
 algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 
 #### Devops/Mlops
-- ![](https://img.icons8.com/color/2x/linux.png), ![](https://i.ytimg.com/vi/LHi3SWGD9nc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSku1qS4Lf9iBDvn9dXY8gtISt6Q), Mlflow, CI/CD, ![](https://img.icons8.com/color/2x/jenkins.png), ![](https://img.icons8.com/color/2x/docker.png), ![](https://img.icons8.com/color/2x/kubernetes.png), ![](https://img.icons8.com/color/2x/git.png), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+- ![](https://img.icons8.com/color/2x/linux.png), DVC,  ![](https://img.icons8.com/external-outline-juicy-fish/1x/external-dev-coding-and-development-outline-outline-juicy-fish.png), Mlflow, CI/CD, ![](https://img.icons8.com/color/2x/jenkins.png), ![](https://img.icons8.com/color/2x/docker.png), ![](https://img.icons8.com/color/2x/kubernetes.png), ![](https://img.icons8.com/color/2x/git.png), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
 - Go(Beginner)
 
 #### Python Packges , Frameworks and Databases
