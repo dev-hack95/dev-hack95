@@ -18,7 +18,7 @@
 
 - :telescope: I’m a Data Scientist and working on ML/DL models and backend for building Machine learning  applications.
 - 🥅 2023 Goals: To become a Full Stack Data Scientist and Devops Pro
-- :zap: In my free time, I read tech articles on medium.
+- :zap: In my free time, I read tech articles on medium and watch anime.
 - 📬 How to reach me: saiprasadtoshatwad@gmail.com
 
 ### :hammer_and_wrench: Tech Stack:
