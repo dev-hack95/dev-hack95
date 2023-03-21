@@ -51,6 +51,5 @@ algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
 ![](https://github-profile-trophy.vercel.app/?username=dev-hack95&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-hack95&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
