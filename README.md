@@ -23,9 +23,11 @@
 
 ### :hammer_and_wrench: Tech Stack:
 
-#### Data Science
-- Python, Data visualization, Supervised Learning algo, Unsupervised Learning
-algos, ANN, EDA, feature enginnering, feature selection & extraction .. etc
+#### Data Science Stack
+- Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
+Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
+
+- Build Projects: Health_Insurace_cross_sell_prediction, Consiment_price_prdiction,
 
 #### Devops/Mlops
 - Linux, DVC, Mlflow, CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
