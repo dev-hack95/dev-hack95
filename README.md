@@ -31,7 +31,7 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 
 #### Devops/Mlops
 - Linux, DVC, Mlflow, CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
-- Go(Beginner)
+- Go
 
 #### Python Packges , Frameworks and Databases
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi
