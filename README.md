@@ -29,8 +29,8 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 
 
 #### Devops/Mlops
-- Linux, [DVC](https://dvc.org/), [Mlflow](https://mlflow.org/), CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, [kedro](https://kedro.org/), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
-- Go
+- Linux,  [DVC](https://dvc.org/), [Mlflow](https://mlflow.org/), CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, [kedro](https://kedro.org/), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+- Go, Raspberry pi
 
 #### Python Packges , Frameworks and Databases
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi
