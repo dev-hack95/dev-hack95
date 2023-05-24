@@ -27,10 +27,9 @@
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
 Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
 
-- Build Projects: Health_Insurace_cross_sell_prediction, Consiment_price_prdiction,
 
 #### Devops/Mlops
-- Linux, DVC, Mlflow, CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, kedro, ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
+- Linux, [DVC](https://dvc.org/), [Mlflow](https://mlflow.org/), CI/CD, Jenkins, Docker, Kubernetes,  AWS, S3, EC2, boto3, [kedro](https://kedro.org/), ![](https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg)
 - Go
 
 #### Python Packges , Frameworks and Databases
