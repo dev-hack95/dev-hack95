@@ -41,7 +41,7 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 - PowerBI,  Tableau
 
 # 📊 Github Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-hack95&bg_color=273849&color=708090&line=41b883&point=41b883&area=false&hide_border=true)](https://github.com/dev-hack95/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-hack95&bg_color=273849&color=708090&line=41b883&point=41b883&area=false&hide_border=true)](https://github.com/dev-hack95/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-hack95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
