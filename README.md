@@ -48,3 +48,18 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 ![](https://github-profile-trophy.vercel.app/?username=dev-hack95&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+```vis
+  layout: pie
+  radius: 150
+  data: [
+    { key: 0, value: 5 },
+    { key: 1, value: 4 },
+    { key: 2, value: 7 },
+    { key: 3, value: 2 },
+    { key: 4, value: 4 },
+    { key: 5, value: 8 },
+    { key: 6, value: 3 },
+    { key: 7, value: 6 }
+  ]
+```
