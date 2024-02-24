@@ -48,12 +48,4 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 ![](https://github-profile-trophy.vercel.app/?username=dev-hack95&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-```mermaid
-pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
-```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
