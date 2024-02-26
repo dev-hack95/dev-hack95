@@ -31,10 +31,11 @@
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    Languages Vs Knowledge
-    "Python" : 10.0
-    "Golang" : 9.0
-    "Rust" : 1.0
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 ```
 
 
