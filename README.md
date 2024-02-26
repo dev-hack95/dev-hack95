@@ -28,11 +28,12 @@
 - Go
 - Rust
 
+```mermaid
 ---
 config:
     xyChart:
-        width: 900
-        height: 600
+        width: 400
+        height: 360
     themeVariables:
         xyChart:
             titleColor: "#ff0000"
@@ -42,6 +43,7 @@ xychart-beta
     x-axis [Python, Golang, Rust]
     y-axis "Revenue (in $)" 0 --> 10
     bar [10, 9, 2]
+```
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
