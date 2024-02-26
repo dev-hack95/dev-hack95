@@ -28,13 +28,14 @@
 - Go
 - Rust
 
-```mermaid
-xychart-beta
+%%{init: {"themeVariables": {"barBorderRadius": 0}}}%%
+xyDiagram
     title "Languages Vs Knowledge"
     x-axis [Python, Golang, Rust]
     y-axis "Revenue (in $)" 0 --> 10
-    bar [10, 9, 2]
-```
+    bars
+        bar [10, 9, 2]
+
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
