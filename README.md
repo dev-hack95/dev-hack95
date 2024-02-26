@@ -30,7 +30,7 @@
 
 ```mermaid
 gantt
-    title Git Issues - days since last update
+    title Command over programming knowledge
     dateFormat  X
     axisFormat %s
 
