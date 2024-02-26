@@ -33,9 +33,8 @@
 pie showData
     title Key elements in Product X
     "Python" : 10.0
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+    "Golang" : 9.0
+    "Rust" : 1.0
 ```
 
 
