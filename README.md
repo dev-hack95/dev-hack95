@@ -29,15 +29,6 @@
 - Rust
 
 ```mermaid
----
-config:
-    xyChart:
-        width: 400
-        height: 360
-    themeVariables:
-        xyChart:
-            titleColor: "#ff0000"
----
 xychart-beta
     title "Languages Vs Knowledge"
     x-axis [Python, Golang, Rust]
