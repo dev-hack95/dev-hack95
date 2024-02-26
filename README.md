@@ -32,9 +32,9 @@
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     Languages Vs Knowledge
-    "Python" : 10
-    "Golang" : 9
-    "Rust" : 1
+    "Python" : 10.0
+    "Golang" : 9.0
+    "Rust" : 1.0
 ```
 
 
