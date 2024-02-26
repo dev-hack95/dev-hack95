@@ -31,7 +31,7 @@
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    title Key elements in Product X
+    title Language vs Knowledge
     "Python" : 10.0
     "Golang" : 9.0
     "Rust" : 1.0
