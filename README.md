@@ -28,13 +28,13 @@
 - Go
 - Rust
 
-%%{init: {"themeVariables": {"barBorderRadius": 0}}}%%
-xyDiagram
+```mermaid
+xychart-beta
     title "Languages Vs Knowledge"
-    x-axis [Python, Golang, Rust]
+    x-axis ["Python", "Golang", "Rust"]
     y-axis "Revenue (in $)" 0 --> 10
-    bars
-        bar [10, 9, 2]
+    data "Revenue" [10, 9, 2]
+```
 
 
 #### Data Science Stack
