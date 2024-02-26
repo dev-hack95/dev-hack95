@@ -29,11 +29,13 @@
 - Rust
 
 ```mermaid
-xychart-beta
-    title "Languages Vs Knowledge"
-    x-axis ["Python", "Golang", "Rust"]
-    y-axis "Revenue (in $)" 0 --> 10
-    data "Revenue" [10, 9, 2]
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 ```
 
 
