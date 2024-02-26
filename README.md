@@ -29,12 +29,17 @@
 - Rust
 
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Language vs Knowledge
-    "Python" : 10.0
-    "Golang" : 9.0
-    "Rust" : 1.0
+gantt
+    title Git Issues - days since last update
+    dateFormat  X
+    axisFormat %s
+
+    section Python
+    10   : 0, 10
+    section Golang
+    9   : 0, 9
+    section Rust
+    1   : 0, 1
 ```
 
 
