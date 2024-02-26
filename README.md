@@ -23,8 +23,13 @@
 
 ### :hammer_and_wrench: Tech Stack:
 
+#### Programming Lanugages
+- Python
+- Go
+- Rust
+
 #### Data Science Stack
-- Python(Experianced), Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
+- Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
 Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
 
 #### Devops/Mlops
