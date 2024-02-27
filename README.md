@@ -1,4 +1,3 @@
-
 <p>
   <h1 align="center"><b>Hello there, I'm Saiprasad Toshatwad </b></h1>
 </p>
