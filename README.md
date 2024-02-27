@@ -42,38 +42,6 @@ gantt
     1   : 0, 1
 ```
 
-<div id="graph"></div>
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script>
-  const svg = d3.select("#graph")
-    .append("svg")
-    .attr("width", 400)
-    .attr("height", 200);
-
-  svg.append("circle")
-    .attr("cx", 50)
-    .attr("cy", 50)
-    .attr("r", 20)
-    .style("fill", "blue");
-
-  svg.append("rect")
-    .attr("x", 100)
-    .attr("y", 50)
-    .attr("width", 40)
-    .attr("height", 30)
-    .style("fill", "green");
-
-  svg.append("line")
-    .attr("x1", 150)
-    .attr("y1", 50)
-    .attr("x2", 200)
-    .attr("y2", 80)
-    .style("stroke", "red")
-    .style("stroke-width", 2);
-</script>
-
-
-
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
 Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
