@@ -41,70 +41,37 @@ gantt
     section Rust
     1   : 0, 1
 ```
+```html
+<div id="graph"></div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+  const svg = d3.select("#graph")
+    .append("svg")
+    .attr("width", 400)
+    .attr("height", 200);
 
-```javascript
-(function(element) {
-    require(['d3'], function(d3) {
-        // Set up margins and dimensions for the chart
-        const margin = {top: 60, right: 60, bottom: 70, left: 90},
-              width = 960 - margin.left - margin.right,
-              height = 400 - margin.top - margin.bottom;
-        
-        // Create SVG element
-        const svg = d3.select(element.get(0))
-              .append("svg")
-              .attr("width", width + margin.left + margin.right)
-              .attr("height", height + margin.top + margin.bottom)
-              .append("g")
-              .attr("transform", `translate(${margin.left},${margin.top})`);
-        
-        // Data for the chart
-        const data = [{'X': 'United States', 'Y': 12394},
-                      {'X': 'Russia', 'Y': 6148},
-                      {'X': 'Germany (FRG)', 'Y': 1653},
-                      {'X': 'France', 'Y': 2162},
-                      {'X': 'United Kingdom', 'Y': 1214},
-                      {'X': 'China', 'Y': 1131},
-                      {'X': 'Spain', 'Y': 814},
-                      {'X': 'Netherlands', 'Y': 1167},
-                      {'X': 'Italy', 'Y': 660},
-                      {'X': 'Israel', 'Y': 1263}];
+  svg.append("circle")
+    .attr("cx", 50)
+    .attr("cy", 50)
+    .attr("r", 20)
+    .style("fill", "blue");
 
-        // Create x scale
-        const x = d3.scaleLinear()
-            .domain([0, d3.extent(data, function(d) { return d.Y })[1]])
-            .range([ 0, width]);
+  svg.append("rect")
+    .attr("x", 100)
+    .attr("y", 50)
+    .attr("width", 40)
+    .attr("height", 30)
+    .style("fill", "green");
 
-        // Append x axis to the svg
-        svg.append("g")
-                .attr("transform", `translate(0, ${height})`)
-                .call(d3.axisBottom(x))
-                .selectAll("text")
-                .attr("transform", "translate(-10,0)rotate(-45)")
-                .style("text-anchor", "end");
-        
-        // Create y scale
-        const y = d3.scaleBand()
-            .range([ 0, height ])
-            .domain(data.map(d => d.X))
-            .padding(.1);
-        
-        // Append y axis to the svg
-        svg.append("g")
-                .call(d3.axisLeft(y))
-        
-        // Create rectangles for the bars
-        svg.selectAll("Rectangle")
-                .data(data)
-                .join("rect")
-                .attr("x", x(0) )
-                .attr("y", d => y(d.X))
-                .attr("width", d => x(d.Y))
-                .attr("height", y.bandwidth())
-                .attr("fill", "skyblue");
-    })
-})(element);
-```
+  svg.append("line")
+    .attr("x1", 150)
+    .attr("y1", 50)
+    .attr("x2", 200)
+    .attr("y2", 80)
+    .style("stroke", "red")
+    .style("stroke-width", 2);
+</script>
+
 
 
 #### Data Science Stack
