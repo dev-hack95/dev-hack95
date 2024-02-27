@@ -62,8 +62,3 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hack95&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-hack95&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
----
-
