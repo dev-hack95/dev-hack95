@@ -42,6 +42,70 @@ gantt
     1   : 0, 1
 ```
 
+```javascript
+(function(element) {
+    require(['d3'], function(d3) {
+        // Set up margins and dimensions for the chart
+        const margin = {top: 60, right: 60, bottom: 70, left: 90},
+              width = 960 - margin.left - margin.right,
+              height = 400 - margin.top - margin.bottom;
+        
+        // Create SVG element
+        const svg = d3.select(element.get(0))
+              .append("svg")
+              .attr("width", width + margin.left + margin.right)
+              .attr("height", height + margin.top + margin.bottom)
+              .append("g")
+              .attr("transform", `translate(${margin.left},${margin.top})`);
+        
+        // Data for the chart
+        const data = [{'X': 'United States', 'Y': 12394},
+                      {'X': 'Russia', 'Y': 6148},
+                      {'X': 'Germany (FRG)', 'Y': 1653},
+                      {'X': 'France', 'Y': 2162},
+                      {'X': 'United Kingdom', 'Y': 1214},
+                      {'X': 'China', 'Y': 1131},
+                      {'X': 'Spain', 'Y': 814},
+                      {'X': 'Netherlands', 'Y': 1167},
+                      {'X': 'Italy', 'Y': 660},
+                      {'X': 'Israel', 'Y': 1263}];
+
+        // Create x scale
+        const x = d3.scaleLinear()
+            .domain([0, d3.extent(data, function(d) { return d.Y })[1]])
+            .range([ 0, width]);
+
+        // Append x axis to the svg
+        svg.append("g")
+                .attr("transform", `translate(0, ${height})`)
+                .call(d3.axisBottom(x))
+                .selectAll("text")
+                .attr("transform", "translate(-10,0)rotate(-45)")
+                .style("text-anchor", "end");
+        
+        // Create y scale
+        const y = d3.scaleBand()
+            .range([ 0, height ])
+            .domain(data.map(d => d.X))
+            .padding(.1);
+        
+        // Append y axis to the svg
+        svg.append("g")
+                .call(d3.axisLeft(y))
+        
+        // Create rectangles for the bars
+        svg.selectAll("Rectangle")
+                .data(data)
+                .join("rect")
+                .attr("x", x(0) )
+                .attr("y", d => y(d.X))
+                .attr("width", d => x(d.Y))
+                .attr("height", y.bandwidth())
+                .attr("fill", "skyblue");
+    })
+})(element);
+```
+
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
