@@ -27,20 +27,6 @@
 - Go
 - Rust
 
-```mermaid
-gantt
-    title Command over programming knowledge
-    dateFormat  X
-    axisFormat %s
-
-    section Python
-    10   : 0, 10
-    section Golang
-    9   : 0, 9
-    section Rust
-    1   : 0, 1
-```
-
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
 Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
