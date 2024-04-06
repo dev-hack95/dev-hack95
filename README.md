@@ -36,7 +36,7 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 - Go, Raspberry pi
 
 #### Python Packges , Frameworks and Databases
-- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi
+- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi
 - Mysql, Postgresql
 
 
