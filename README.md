@@ -26,6 +26,7 @@
 - Python
 - Go
 - Rust
+- c++
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
@@ -38,6 +39,11 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 #### Python Packges , Frameworks and Databases
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi
 - Mysql, Postgresql
+
+#### Interests
+- FPGA
+- EdgeAI
+- Low Latency Application
 
 
 # 📊 GitHub Stats:
