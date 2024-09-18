@@ -25,7 +25,7 @@
 #### Programming Lanugages
 - Python
 - Go
-- Rust
+- C
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
@@ -39,11 +39,14 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi
 - Mysql, Postgresql
 
+#### Embedded
+- Pico (Raspberry pi Pico 1 & 2)
+
 #### Interests
-- FPGA
+- FPGA And AI Applications
 - EdgeAI
 - Low Latency Application
-
+- Peformance Engineering
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-hack95&theme=vue-dark&hide_border=false)<br/>
