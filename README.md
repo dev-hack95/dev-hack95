@@ -15,8 +15,7 @@
 ### 👨‍💻: About Me :
 #### I am a Data Scientist and Backend engineer.
 
-- :telescope: I am a Data Scientist focusing on machine learning and deep learning models, with a strong interest in backend development for ML applications. In my free time, I enjoy reading tech articles on Medium and watching anime. My 
-passions include FPGA and AI applications, EdgeAI, low latency applications, and performance engineering. I am dedicated to exploring innovative technologies that enhance efficiency and drive advancements in the field of artificial intelligence.
+- :telescope: I am a Data Scientist and Hardware enthusiasts focusing on machine learning and deep learning models, with a strong interest in software and hardware intergrations for ML applications. In my free time, I enjoy reading tech articles on Medium and watching anime. My passions include FPGA and AI applications, EdgeAI, low latency applications, and performance engineering. I am dedicated to exploring innovative technologies that enhance efficiency and drive advancements in the field of artificial intelligence.
 
 - 📬 How to reach me: saiprasadtoshatwad@gmail.com
 
