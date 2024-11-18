@@ -31,8 +31,7 @@
 Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
 
 #### Devops/Mlops
-- Linux, DVC, Mlflow, Docker, AWS, S3, EC2, lambda, boto3, kedro, GithubActions
-- Go, Raspberry pi
+- Linux, Docker, AWS, S3, EC2, lambda, boto3,  GithubActions
 
 #### Python Packges , Frameworks and Databases
 - Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi
@@ -40,6 +39,7 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 
 #### Embedded
 - Pico (Raspberry pi Pico 1 & 2)
+- Raspberry Pi
 
 #### Interests
 - FPGA And AI Applications
