@@ -15,7 +15,7 @@
 ### 👨‍💻: About Me :
 #### I am a Data Scientist and Backend engineer.
 
-- :telescope: I am a Data Scientist and Hardware enthusiasts focusing on machine learning and deep learning models, with a strong interest in software and hardware intergrations for ML applications. In my free time, I enjoy reading tech articles on Medium and watching anime. My passions include FPGA and AI applications, EdgeAI, low latency applications, and performance engineering. I am dedicated to exploring innovative technologies that enhance efficiency and drive advancements in the field of artificial intelligence.
+- :telescope: I'm a Data Scientist and Hardware enthusiast with a passion for high-performance computing, specializing in machine learning and deep learning model optimization. My expertise lies at the intersection of software and hardware integration, particularly FPGA implementation, EdgeAI development, and performance engineering for low-latency applications. When not pushing the boundaries of computational efficiency, you'll find me absorbing tech articles on Medium or unwinding with anime. I'm driven by a commitment to harness innovative technologies that accelerate AI advancement and transform theoretical concepts into real-world solutions.
 
 - 📬 How to reach me: saiprasadtoshatwad@gmail.com
 
@@ -25,6 +25,7 @@
 - Python
 - Go
 - C
+- Verilog(Newbie)
 
 #### Data Science Stack
 - Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
@@ -34,18 +35,20 @@ Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask,
 - Linux, Docker, AWS, S3, EC2, lambda, boto3,  GithubActions
 
 #### Python Packges , Frameworks and Databases
-- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi
+- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi, litex, yosys
 - Mysql, Postgresql
 
-#### Embedded
+#### Edge Devices 
 - Pico (Raspberry pi Pico 1 & 2)
 - Raspberry Pi
+- Tang nano 20k(Newbie)
 
 #### Interests
+- Peformance Engineering
+- Low Latency Application
 - FPGA And AI Applications
 - EdgeAI
-- Low Latency Application
-- Peformance Engineering
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-hack95&theme=vue-dark&hide_border=false)<br/>
