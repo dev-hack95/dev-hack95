@@ -15,7 +15,7 @@
 ### 👨‍💻: About Me :
 #### I am a Data Scientist and Backend engineer.
 
-- :telescope: I'm a Data Scientist and Hardware enthusiast with a passion for high-performance computing, specializing in machine learning and deep learning model optimization. My expertise lies at the intersection of software and hardware integration, particularly FPGA implementation, EdgeAI development, and performance engineering for low-latency applications. When not pushing the boundaries of computational efficiency, you'll find me absorbing tech articles on Medium or unwinding with anime. I'm driven by a commitment to harness innovative technologies that accelerate AI advancement and transform theoretical concepts into real-world solutions.
+- :telescope: I'm a Data Scientist and Hardware enthusiast with a passion for high-performance computing, specializing in machine learning and deep learning model optimization. My interest lies at the intersection of software and hardware integration, particularly FPGA implementation, EdgeAI development, and performance engineering for low-latency applications. When not pushing the boundaries of computational efficiency, you'll find me absorbing tech articles on Medium or unwinding with anime. I'm driven by a commitment to harness innovative technologies that accelerate AI advancement and transform theoretical concepts into real-world solutions.
 
 - 📬 How to reach me: saiprasadtoshatwad@gmail.com
 
