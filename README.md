@@ -25,6 +25,7 @@
 - Python
 - Go
 - C
+- Rust(Newbie)
 - Verilog(Newbie)
 
 #### Data Science Stack
