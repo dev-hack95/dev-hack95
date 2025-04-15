@@ -22,9 +22,9 @@
 ### :hammer_and_wrench: Tech Stack:
 
 #### Programming Lanugages
-- Python
-- Go
 - C
+- Go
+- Python
 - Rust(Newbie)
 - Verilog(Newbie)
 
