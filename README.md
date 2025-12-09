@@ -27,21 +27,6 @@
 - Python
 - Verilog(Newbie)
 
-#### Data Science Stack
-- Python, Data visualization, Supervised Learning algo, Unsupervised Learning algos, ANN, EDA, feature enginnering, feature selection & extraction,
-Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Beautiful Soup, Flask, Fastapi, .. etc
-
-#### Devops/Mlops
-- Linux, Docker, AWS, S3, EC2, lambda, boto3,  GithubActions
-
-#### Python Packges , Frameworks and Databases
-- Scikit-Learn, Tensorflow, Xgboost, Numpy , Pandas, Scipy, Flask, Fastapi, litex, yosys
-- Mysql, Postgresql
-
-#### Edge Devices 
-- Pico (Raspberry pi Pico 1 & 2)
-- Raspberry Pi
-- Tang nano 20k(Newbie)
 
 #### Interests
 - Peformance Engineering
