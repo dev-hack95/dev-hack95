@@ -23,6 +23,7 @@
 
 #### Programming Lanugages
 - C
+- C++(Gpu & Template programming)
 - Go
 - Python
 - Zig(Newbie)
