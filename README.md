@@ -25,6 +25,7 @@
 - C
 - Go
 - Python
+- Zig(Newbie)
 - Verilog(Newbie)
 
 
